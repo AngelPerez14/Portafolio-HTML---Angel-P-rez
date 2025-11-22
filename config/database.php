@@ -1,4 +1,7 @@
 <?php
+
+date_default_timezone_set('America/Caracas');
+
 $host = 'localhost';
 $dbname = 'portafolio_db';
 $username = 'root';
